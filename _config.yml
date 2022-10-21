@@ -111,7 +111,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Daniel's Thoughts # blog_name will be displayed in your blog page
-blog_nav_title: Articles # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: articles # your blog must have a title for it to be displayed in the nav bar
 blog_description: Some things I think too much about that I decided to double-down and write too much about.
 permalink: /blog/:year/:title/
 
