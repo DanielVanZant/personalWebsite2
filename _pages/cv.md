@@ -1,5 +1,5 @@
 ---
 layout: redirected
 permalink: /cv/
-redirect_to: https://your.pdf.location
+redirect_to: https://600words.net/assets/pdf/Curriculum%20Vitae.pdf
 ---
