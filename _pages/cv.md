@@ -1,8 +1,5 @@
 ---
-layout: cv
+layout: redirected
 permalink: /cv/
-title: cv
-nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
+redirect_to: https://your.pdf.location
 ---
