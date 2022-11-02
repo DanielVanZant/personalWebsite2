@@ -6,7 +6,7 @@ subtitle: seeking to understand the minds of man and machine
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_7956001.jpg
   image_circular: true # crops the image to make it circular
 
 news: false  # includes a list of news items
