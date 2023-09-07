@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "https://mysite.com/*"
+  from = "https://danielvanzant.com/*"
   to = "https://publish.obsidian.md/serve?url=mysite.com/my-notes/:splat"
   status = 200
   force = true
